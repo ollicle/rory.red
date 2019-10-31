@@ -1,5 +1,5 @@
 ---
-title: A post with figures and video
+title: A post with figures
 date: '2019-06-18'
 tags:
   - demo-content
@@ -11,10 +11,6 @@ Evidence I was here. A post to demonstrate how a blog post looks on Hylia. Conte
 If you want to make an image bleed-out, add a title attribute to it and the front-end will automatically wrap it in a `<figure>` tag for you.
 
 ![The top of a grey concrete building with a blue sky in the background](/images/demo-image-1.jpg "Brutalism at its finest. Photo by Artificial Photography on Unsplash.")
-
-You can also add videos to posts from YouTube or Vimeo (or wherever, really) and the front-end will also make those bleed-out for you too.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_38JDGnr0vA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Finally, how about a `<blockquote>`?
 
