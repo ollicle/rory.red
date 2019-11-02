@@ -12,6 +12,9 @@
               <p class="text-500 gap-top-300 weight-mid">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
               </p>
+              <div>
+              	{{ item.templateContent | safe }}
+              </div>
             </li>
           {% endif %}
         {% endfor %}
