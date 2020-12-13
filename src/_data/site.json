@@ -3,7 +3,6 @@
   "shortDesc": "Sure beats sand in your pants",
   "url": "https://rory.red",
   "authorName": "Rory",
-  "enableThirdPartyComments": false,
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }
